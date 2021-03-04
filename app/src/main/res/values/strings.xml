@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">TaskRemainderApplication</string>
+    <string name="err_name">Space should be present</string>
+    <string name="err_tel">should have 9,8,7 starting numbers</string>
+    <string name="err_email">Invalid email</string>
+    <string name="err_password">Must and should have capital &amp; small Letters,special character,min 8 max 10 characters</string>
+    <string name="err_password_confirmation">Both are not Equal</string>
+</resources>
